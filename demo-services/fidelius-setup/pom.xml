@@ -36,7 +36,7 @@
         <dependency>
             <groupId>org.finra.fidelius</groupId>
             <artifactId>fidelius-sdk</artifactId>
-            <version>1.0.0</version>
+            <version>3.0.0</version>
             <!--TODO: Remove this once sdk is published-->
         </dependency>
     </dependencies>
