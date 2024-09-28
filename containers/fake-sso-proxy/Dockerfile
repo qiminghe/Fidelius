@@ -1,4 +1,4 @@
-FROM httpd:2.4.29
+FROM httpd:2.4.62
 MAINTAINER Fidelius Contributors
 
 ADD certs/server.crt /usr/local/apache2/certs/server.crt
